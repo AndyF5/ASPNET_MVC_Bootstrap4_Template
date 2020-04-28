@@ -5,5 +5,5 @@ To use this template:
 
 - Clone the repo.
 - Change the name of ASPNET_MVC_Bootstrap4_Template.sln using git.
-- Chnage all the references to ASPNET_MVC_Bootstrap4_Template inside ASPNET_MVC_Bootstrap4_Template.sln.
+- Change all the references to ASPNET_MVC_Bootstrap4_Template inside ASPNET_MVC_Bootstrap4_Template.sln.
 - Change the name of ASPNET_MVC_Bootstrap4_Template.csproj.
